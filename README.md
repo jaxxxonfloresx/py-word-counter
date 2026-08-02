@@ -1,2 +1,4 @@
-# py-word-counter
+# Py Word Counter
+
 Count words and characters in a given string using Python.
+
